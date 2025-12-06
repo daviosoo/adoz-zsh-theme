@@ -141,7 +141,6 @@ adozBuildTheme () {
         adozGitStatus;
     fi;
     adozNewline;
-    adozNewline;
     adozPrompt;
 }
 
