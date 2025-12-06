@@ -12,13 +12,13 @@ A minimalistic ZSH theme with a focus on purple and blue color tones. Adoz provi
 Download the `adoz.zsh-theme` file to your oh-my-zsh themes directory:
 
 ```bash
-curl -o ~/.oh-my-zsh/themes/adoz.zsh-theme https://raw.githubusercontent.com/daviosoo/adoz-zsh-theme/main/adoz.zsh-theme
+curl -o $ZSH_CUSTOM/themes/adoz.zsh-theme https://raw.githubusercontent.com/daviosoo/adoz-zsh-theme/main/adoz.zsh-theme
 ```
 
 Or using `wget`:
 
 ```bash
-wget -O ~/.oh-my-zsh/themes/adoz.zsh-theme https://raw.githubusercontent.com/daviosoo/adoz-zsh-theme/main/adoz.zsh-theme
+wget -O $ZSH_CUSTOM/themes/adoz.zsh-theme https://raw.githubusercontent.com/daviosoo/adoz-zsh-theme/main/adoz.zsh-theme
 ```
 
 ### Step 2: Enable the theme
